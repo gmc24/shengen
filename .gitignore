@@ -1,5 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
-
 .idea/
 /backend/vendor/
 /backend/tests/
+/assets/foundation/
